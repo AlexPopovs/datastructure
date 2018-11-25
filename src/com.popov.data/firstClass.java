@@ -13,4 +13,8 @@ public class firstClass {
     public void setField(String field) {
         this.field = field;
     }
+
+    public firstClass(String field) {
+        this.field = field;
+    }
 }
